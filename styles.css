@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    margin: 0;
+    background-color: darkcyan;
+  }
+
+h1{ font-family: 'Anton', sans-serif;
+    font-family: 'Moon Dance', cursive;
+    font-family: 'Unbounded', cursive;
+    }
